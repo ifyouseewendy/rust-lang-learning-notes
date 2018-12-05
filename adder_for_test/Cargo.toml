@@ -1,0 +1,6 @@
+[package]
+name = "adder_for_test"
+version = "0.1.0"
+authors = ["Di Wen <ifyouseewendy@gmail.com>"]
+
+[dependencies]
